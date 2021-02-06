@@ -11,7 +11,7 @@ def link (says= "It's Dangerous To Go Alone! Take This.")
 end
 
 def all_phrases
-  puts phrase
-  puts status
-  puts says
+  puts mario
+  puts toadstool
+  puts link
 end
